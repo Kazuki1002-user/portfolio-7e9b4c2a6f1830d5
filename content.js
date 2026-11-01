@@ -6,7 +6,7 @@ window.PORTFOLIO = {
   research: {
     title: '布型ロボティックスーツを用いたスポーツ遠隔動作誘導システム',
     summary: '布型ロボティックスーツを用いて、スポーツにおける遠隔での動作誘導に取り組んでいます。現在のシステムと、将来実現を目指す遠隔指導体験を紹介します。',
-    video: {url: 'https://youtu.be/WN0vo--czoU', title: 'MR技術を用いた遠隔動作誘導システム', description: '空圧制御器・モーションキャプチャ・VRデバイスと自らが提案した触覚提示手法を統合し開発'},
+    video: {url: 'https://youtu.be/WN0vo--czoU', title: 'MR技術を用いた遠隔動作誘導システム', description: 'スーツが身体を引っ張り姿勢を誘導。着用者は視覚と触覚の両方で動作の理解が可能。空圧制御器・モーションキャプチャ・VRデバイスと自らが提案した触覚提示手法を統合し開発'},
     figures: [
       {title: '現在のMR遠隔動作誘導システムの概念図', status: '現在', src: 'assets/image(20261101-144942).png', alt: '現在のシステムのコンセプト図', description: ''},
       {title: '将来目指す遠隔指導体験', status: '将来構想', src: 'assets/image(20261101-144721).png', alt: '将来目指す遠隔指導体験の構想図', description: 'スーツとMR技術で、対面のようにお互いにインタラクトできるシステムを目指しています。'}
